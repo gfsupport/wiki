@@ -1,1 +1,1 @@
-<a href="https://bitbucket.org/greatfire/wiki/raw/master/FreeBrowser.apk" name="a"><img align="left" src="https://github.com/gfsupport/wiki/raw/%E8%87%AA%E7%94%B1%E6%B5%8F%E8%A7%88-3.2.5/wiki.png"></a>
+[![](./wiki.png)](https://bitbucket.org/greatfire/wiki/raw/master/FreeBrowser.apk)
